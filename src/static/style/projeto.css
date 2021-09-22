@@ -1,0 +1,25 @@
+main{
+margin: auto;
+margin-top: 70px;
+height: 900px;
+width: 95%;
+display: flex;
+align-items: center;
+background-color: rgba(0, 0, 0, 0.39);
+border-radius: 20px;
+}
+.projetos{
+margin: auto;
+margin-top: 14px;
+color: white;
+}
+.projetos h1{
+font-size: 50px;
+text-align: center;
+}
+.projetos h2{
+font-size: 50px;
+margin-top: 150px;
+display: flex;
+text-align: center;
+}

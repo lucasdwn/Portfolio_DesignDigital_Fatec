@@ -1,0 +1,51 @@
+main{
+    background-color: rgba(0, 0, 0, 0.39);
+    margin:auto;
+    margin-top:70px;
+    width: 95%;
+    height: 570px;
+    display: flex;
+    flex-direction: row;  
+    border: none;
+    border-radius: 20px;
+}
+
+.center{
+    margin: auto;
+    margin-top: 0px;
+    color: white;
+
+
+}
+.center h1{
+text-align: center;
+font-size: 50px;
+margin-top: 14px;
+
+
+}
+.center h2{
+    font-size: 25px;
+    display: flex;
+    margin-left: 10px;
+    text-align: center;
+}
+.center h3{
+    font-size: 25px;
+    display: flex;
+    margin-left: 10px;
+    text-align: center;
+}
+.center h4{
+    font-size: 25px;
+    text-align: center;
+}
+.gifs{
+    align-items: center;
+    
+    }
+    .gifs img[src='../static/style/Imagens/bem-vindo.gif']{
+margin-left: 400px;
+margin-top: 15px;
+border: 1px solid white;
+    }
