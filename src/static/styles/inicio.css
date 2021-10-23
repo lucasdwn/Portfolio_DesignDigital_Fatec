@@ -68,9 +68,39 @@ div{
 }
 
 @media (max-width:660px){
-    .conteudo img[src='../static/images/gifs/baby-welcome.gif']{
-       display: none;
+    .conteudo h1{
+        margin: auto;
+        display: flex;
+        font-size: 25px;
     }
+    
+    .conteudo h2{
+        margin-top: 40px;
+        font-size: 15px;
+        text-align: center;
+    }
+    
+    .conteudo h3{
+        margin-top: 40px;
+        font-size: 15px;
+        text-align: center;
+    }
+    
+    .conteudo h4{
+        margin-top: 20px;
+        font-size: 15px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .conteudo img[src='../static/images/gifs/baby-welcome.gif']{
+        width: 200px;
+        height: 100px;
+    }
+
+}
+
+@media (max-width:496px){
+    
 
 }
 
