@@ -4,8 +4,8 @@
     font-family: 'Roboto', sans-serif;
 }
 
-main{
-    background: url('../images/background/eyes_cat.png') no-repeat center center;
+body{
+    background: url('../images/background/wallpaper1.jpg')  center center;
     background-size: cover;
     height: 95vh;
 }
@@ -16,15 +16,16 @@ a{
 }
 
 a:hover{
-    color: #FFC500;
+    color: #918A75;
     opacity: 0.7;
 }
 
 nav{
     display: flex;
     justify-content: space-around;
-    background: #23232e;
+    background: #0606119d;
     height: 5vh;
+    border-bottom: 1px solid #fff;
 }
 
 .nav-list{

@@ -3,6 +3,7 @@ div{
     display: flex;
 }
 .titulo p{
+    margin-top: 10px;
     display: flex;
     justify-content: space-around;
     color: #fff;
@@ -11,21 +12,18 @@ div{
     font-weight: bold;
 }
 
-.titulo p:hover{
-    color: #FFC500;
-    opacity: 0.7;
-}
+
 
 .conteudo{
     border: #fff solid 1px;
     border-radius: 20px;
     color: #fff;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 0px;
     width: 90%;
     display: flex;
     flex-direction: column;
-    background: #33333f3f;
+    background: #0606119d;
 }
 
 .conteudo h1{
@@ -57,6 +55,7 @@ div{
     width: 300px;
     height: 150px;
     margin: auto;
+    margin-bottom: 20px;
 }
 
 @media (max-width:934px){
