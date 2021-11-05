@@ -1,0 +1,81 @@
+.texto{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.texto h1{
+    margin: auto;
+    margin-top: 15px;
+    font-size: 50px;
+}
+
+.texto h2{
+    margin: auto;
+    margin-top: 35px;
+    font-size: 50px;
+}
+
+.texto p{
+    margin: auto;
+    margin-top: 15px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.hobbies{
+    margin: auto;  
+}
+.hobbies p{
+    font-size: 25px;
+    margin-right: 30px;
+}
+
+.hobbies-jogos{
+    flex-direction: column;
+}
+.jogos{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.jogos p{
+    font-size: 20px;
+}
+
+.jogos img{
+    height: 30vh;
+}
+
+.jogos1{
+    display: flex;
+    justify-content: center;
+}
+
+.jogos1 p{
+    font-size: 20px;
+}
+
+.jogos1 img{
+    height: 30vh;
+}
+
+.hobbies-series{
+    flex-direction: column;
+}
+
+.series p{
+    font-size: 20px;
+}
+
+.series img{
+    height: 30vh;
+}
+
+.series1 p{
+    font-size: 20px;
+}
+
+.series1 img{
+    height: 30vh;
+}

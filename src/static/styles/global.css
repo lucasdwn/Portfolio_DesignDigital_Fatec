@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url('../images/background/wallpaper1.jpg')  center center;
+    background: rgb(230, 83, 16);
     background-size: cover;
     height: 95vh;
 }
