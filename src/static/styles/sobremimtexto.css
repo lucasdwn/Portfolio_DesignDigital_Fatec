@@ -34,9 +34,11 @@
 .hobbies-jogos{
     flex-direction: column;
 }
+
 .jogos{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    text-align: center;
 }
 
 .jogos p{
@@ -78,4 +80,262 @@
 
 .series1 img{
     height: 30vh;
+}
+
+.hobbies-animes{
+    flex-direction: column;
+}
+
+.animes p{
+    font-size: 20px;
+}
+
+.animes img{
+    height: 30vh;
+}
+
+.animes1 p{
+    font-size: 20px;
+}
+
+.animes1 img{
+    height: 30vh;
+}
+
+@media(max-width:968px){
+
+    .jogos p{
+        font-size: 13px;
+    }
+
+    .jogos img{
+        height: 20vh;
+    }
+
+    .jogos1 p{
+        font-size: 13px;
+    }
+
+    .jogos1 img{
+        height: 20vh;
+    }
+
+    .series img{
+        height: 20vh;
+    }
+
+    .series p{
+        font-size: 13px;
+    }
+
+    .series1 img{
+        height: 20vh;
+    }
+
+    .series1 p{
+        font-size: 13px;
+    }
+
+    .animes img{
+        height: 20vh;
+    }
+
+    .animes p{
+        font-size: 13px;
+    }
+
+    .animes1 img{
+        height: 20vh;
+    }
+
+    .animes1 p{
+        font-size: 13px;
+    }
+
+}
+
+@media(max-width:658px){
+
+    .texto{
+        display: flex;
+        flex-direction: column;
+        color: #fff;
+    }
+    
+    .texto h1{
+        margin: auto;
+        margin-top: 15px;
+        font-size: 25px;
+    }
+    
+    .texto h2{
+        margin: auto;
+        margin-top: 35px;
+        font-size: 25px;
+    }
+    
+    .texto p{
+        margin: auto;
+        margin-top: 15px;
+        font-size: 15px;
+        text-align: center;
+    }
+    
+    .hobbies{
+        margin: auto;  
+    }
+    .hobbies p{
+        margin-right: 30px;
+    }
+    
+    .hobbies-jogos{
+        flex-direction: column;
+    }
+    
+    .jogos{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .jogos p{
+        font-size: 5px;
+    }
+
+    .jogos img{
+        height: 10vh;
+    }
+
+    .jogos1 p{
+        font-size: 9px;
+    }
+
+    .jogos1 img{
+        height: 10vh;
+    }
+
+    .series img{
+        height: 10vh;
+    }
+
+    .series p{
+        font-size: 9px;
+    }
+
+    .series1 img{
+        height: 10vh;
+    }
+
+    .series1 p{
+        font-size: 9px;
+    }
+
+    .animes img{
+        height: 10vh;
+    }
+
+    .animes p{
+        font-size: 9px;
+    }
+
+    .animes1 img{
+        height: 10vh;
+    }
+
+    .animes1 p{
+        font-size: 9px;
+    }
+}
+
+@media(max-width:340px){
+
+    .texto{
+        display: flex;
+        flex-direction: column;
+        color: #fff;
+    }
+    
+    .texto h1{
+        margin: auto;
+        margin-top: 15px;
+        font-size: 25px;
+    }
+    
+    .texto h2{
+        margin: auto;
+        margin-top: 35px;
+        font-size: 25px;
+    }
+    
+    .texto p{
+        margin: auto;
+        margin-top: 15px;
+        font-size: 15px;
+        text-align: center;
+    }
+    
+    .hobbies{
+        margin: auto;  
+    }
+    .hobbies p{
+        margin-right: 30px;
+    }
+    
+    .hobbies-jogos{
+        flex-direction: column;
+    }
+    
+    .jogos{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .jogos p{
+        font-size: 5px;
+    }
+
+    .jogos img{
+        height: 7vh;
+    }
+
+    .jogos1 p{
+        font-size: 9px;
+    }
+
+    .jogos1 img{
+        height: 7vh;
+    }
+
+    .series img{
+        height: 7vh;
+    }
+
+    .series p{
+        font-size: 9px;
+    }
+
+    .series1 img{
+        height: 7vh;
+    }
+
+    .series1 p{
+        font-size: 9px;
+    }
+
+    .animes img{
+        height: 7vh;
+    }
+
+    .animes p{
+        font-size: 9px;
+    }
+
+    .animes1 img{
+        height: 7vh;
+    }
+
+    .animes1 p{
+        font-size: 9px;
+    }
 }
