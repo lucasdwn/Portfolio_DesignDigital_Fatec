@@ -1,0 +1,60 @@
+div{
+    justify-content: space-around;
+    display: flex;
+}
+.titulo p{
+    margin-top: 10px;
+    display: flex;
+    color: #fff;
+    font-size: 50px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Projetos{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+    width: 95%;
+    color: #fff;
+}
+
+.Projetos h1{
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.Projetos h2{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.Projetos a{
+    margin: auto;
+    color: black;
+}
+
+.github{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+    width: 95%;
+    color: #fff;
+}
+
+.github h1{
+    margin: auto;
+    text-align: center;
+}
+
+.github a{
+    color: black;
+}
+
+.github img[src="https://github-readme-stats.vercel.app/api?username=ddaiwon&show_icons=true&theme=radical"]{
+    height: 40vh;
+}
