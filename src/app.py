@@ -5,19 +5,23 @@ app = Flask(__name__)
 
 @app.route('/')
 def inicio():
-    return render_template('inicio.html')
+    tittle= "início"
+    return render_template('inicio.html', titulo=tittle)
 
 @app.route('/Projetos')
 def Projetos():
-    return render_template('Projetos.html')
+    tittle='Projetos'
+    return render_template('Projetos.html', titulo=tittle)
 
 @app.route('/Sobremim')
 def Sobremim():
-    return render_template('Sobremim.html')
+    tittle='Sobre mim'
+    return render_template('Sobremim.html', titulo=tittle)
 
 @app.route('/Contatos')
 def Contatos():
-    return render_template('Contatos.html')
+    tittle='Contatos'
+    return render_template('Contatos.html', titulo=tittle)
 
 
 app.run(debug=True)
