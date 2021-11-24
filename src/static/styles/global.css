@@ -26,6 +26,8 @@ nav{
     background: #0606119d;
     height: 5vh;
     border-bottom: 1px solid #fff;
+    position: fixed;
+    width: 100%;
 }
 
 .nav-list{
@@ -51,10 +53,10 @@ nav{
 }
 
 .mobile-menu div{
-    width: 32px;
+    width: 27px;
     height: 2px;
     background: #fff;
-    margin: 8px;
+    margin: 5px;
     transition: 0.3s;
 }
 
@@ -63,7 +65,7 @@ div{
     display: flex;
 }
 .Titulo p{
-    margin-top: 10px;
+    margin-top: 50px;
     display: flex;
     color: #fff;
     font-size: 50px;
@@ -87,6 +89,7 @@ div{
      transition: transform 0.3s ease-in;
      border-right: 1px solid #fff;
      border-bottom: 1px solid #fff;
+     position: fixed;
     }
     .nav-list li{
         margin-left: 0;
@@ -113,7 +116,7 @@ div{
 }
 
 .mobile-menu.active .line1{
-    transform: rotate(-45deg) translate(-8px, 8px);
+    transform: rotate(-45deg) translate(-5px, 5px);
 
 }
 
@@ -123,6 +126,6 @@ div{
 }
 
 .mobile-menu.active .line3{
-    transform: rotate(45deg) translate(-5px, -7px);
+    transform: rotate(45deg) translate(-5px, -5px);
     
 }

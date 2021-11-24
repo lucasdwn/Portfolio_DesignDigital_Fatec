@@ -42,7 +42,7 @@
     }
 
     .titulo p{
-        margin-top: 10px;
+        margin-top: 50px;
         display: flex;
         color: #fff;
         font-size: 35px;
@@ -58,7 +58,7 @@
 @media(max-width:452px){
 
     .titulo p{
-        margin-top: 10px;
+        margin-top: 50px;
         display: flex;
         color: #fff;
         font-size: 25px;
@@ -88,7 +88,7 @@
 @media(max-width:340px){
 
     .titulo p{
-        margin-top: 10px;
+        margin-top: 50px;
         display: flex;
         color: #fff;
         font-size: 25px;
