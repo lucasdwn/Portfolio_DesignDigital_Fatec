@@ -1,17 +1,3 @@
-div{
-    justify-content: space-around;
-    display: flex;
-}
-.titulo p{
-    margin-top: 10px;
-    display: flex;
-    color: #fff;
-    font-size: 50px;
-    letter-spacing: 3px;
-    font-weight: bold;
-    text-align: center;
-}
-
 .Projetos{
     display: flex;
     flex-direction: column;
