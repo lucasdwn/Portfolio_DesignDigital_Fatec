@@ -1,10 +1,14 @@
+# LINK DE ACESSO DO MEU PORTFÓLIO
+  ## https://lfportfolio0804.herokuapp.com 
+  <br> 
+
 # FATEC DESIGN DIGITAL - PORTFÓLIO
-## Portfólio de: Lucas Ferreira da Costa
+### Portfólio de: Lucas Ferreira da Costa
 ### E-mail Institucional: lucas.costa105@fatec.sp.gov.br
 ### E-mail: lfcosta0804@gmail.com 
 <br>
 
-# Como rodar minha aplicação
+# Como rodar minha aplicação em flask na sua maquina
   ## Certifique-se de ter o git e o python instalado:
    ### 1º Em uma nova pasta abra o prompt de comando e digite o comando 
     git clone https://github.com/ddaiwon/FATEC-Design-Digital---Portf-lio
@@ -54,8 +58,7 @@
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
+   <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </div><br>
 
-# Recursos para 3ª Entrega
-
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
