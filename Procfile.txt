@@ -1,0 +1,1 @@
+web: gunicorn src.app:lf-portfolio0804 --log-file -
