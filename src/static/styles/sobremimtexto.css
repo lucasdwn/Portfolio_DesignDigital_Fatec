@@ -84,6 +84,7 @@
 
 .hobbies-animes{
     flex-direction: column;
+    
 }
 
 .animes p{
@@ -100,6 +101,7 @@
 
 .animes1 img{
     height: 30vh;
+    margin-bottom: 50px;
 }
 
 @media(max-width:968px){

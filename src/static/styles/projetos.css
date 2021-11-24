@@ -28,6 +28,7 @@
     flex-direction: column;
     margin: auto;
     margin-top: 20px;
+    
     width: 95%;
     color: #fff;
 }
@@ -43,4 +44,20 @@
 
 .github img[src="https://github-readme-stats.vercel.app/api?username=ddaiwon&show_icons=true&theme=radical"]{
     height: 40vh;
+}
+
+.curriculo{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+    
+    width: 95%;
+    color: #fff;
+}
+
+.curriculo h1{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
 }

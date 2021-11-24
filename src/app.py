@@ -16,7 +16,7 @@ def Projetos():
 @lfportfolio0804.route('/Sobremim')
 def Sobremim():
     tittle='Sobre mim'
-    return render_template('Sobremim.html', titulo=tittle)
+    return render_template('Sobre mim.html', titulo=tittle)
 
 @lfportfolio0804.route('/Contatos')
 def Contatos():
