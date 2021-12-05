@@ -1,10 +1,13 @@
 # FATEC DESIGN DIGITAL - PORTFÓLIO
-### Portfólio de: Lucas Ferreira da Costa
-### E-mail Institucional: lucas.costa105@fatec.sp.gov.br
-### E-mail: lfcosta0804@gmail.com 
-## Link do Portfólio: https://lfportfolio0804.herokuapp.com 
+* ## Link do Portfólio: https://lfportfolio0804.herokuapp.com 
+* ### Portfólio de: Lucas Ferreira da Costa
+* ### E-mail Institucional: lucas.costa105@fatec.sp.gov.br
+* ### E-mail: lfcosta0804@gmail.com 
 
-# Recursos usados no projeto 
+## Sobre o Portfólio
+* ### Este Portfólio é um projeto para a matéria de Design Digital que pertence ao curso Desenvolvimento de Software Multiplataforma, onde o objetivo é criar um portfólio pessoal seguindo as orientações do professor e utilizando os recursos que foi aprendido durante as aulas.
+
+## Recursos usados no projeto 
 <div style="display: inline_block">
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white" />
@@ -57,4 +60,5 @@
   ### 2ª Entrega: https://youtu.be/KIQzv4AG-qM <br>
  
 # Entregas no github
+
 ### | <a href="https://bityli.com/FkTTc3" target='_blank'>1ª Entrega</a> | <a href="https://bityli.com/vbRj5G" target='_blank'>2ª Entrega</a> | <a href="https://github.com/ddaiwon/FATEC-Design-Digital---Portf-lio/releases/tag/VersãoFinal" target='_blank'>3ª Entrega</a> |
