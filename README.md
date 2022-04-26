@@ -20,7 +20,7 @@
 # Como rodar minha aplicação em flask na sua maquina
   ## Certifique-se de ter o git e o python instalado:
    ### 1º Em uma nova pasta abra o prompt de comando e digite o comando 
-    git clone https://github.com/ddaiwon/FATEC-Design-Digital---Portf-lio
+    git clone https://github.com/lucasdwn/Portfolio_DesignDigital_Fatec
 
   ### 2º Dentro da pasta src da aplicação, crie um ambiente virtual usando:
     py -3 -m venv venv
@@ -57,8 +57,7 @@
 
 # Link do youtube para demonstração do meu portfólio:
   ### 1ª Entrega: https://youtu.be/PjrOa2BtKms <br>
-  ### 2ª Entrega: https://youtu.be/KIQzv4AG-qM <br>
- 
+  ### 2ª Entrega: https://youtu.be/KIQzv4AG-qM <br><br> 
 # Entregas no github
 
-### | <a href="https://bityli.com/FkTTc3" target='_blank'>1ª Entrega</a> | <a href="https://bityli.com/vbRj5G" target='_blank'>2ª Entrega</a> | <a href="https://github.com/ddaiwon/FATEC-Design-Digital---Portf-lio/releases/tag/VersãoFinal" target='_blank'>3ª Entrega</a> |
+### | <a href="https://github.com/lucasdwn/Portfolio_DesignDigital_Fatec/tree/Portfolio-antigo" target='_blank'>1ª Entrega</a> | <a href="https://github.com/lucasdwn/Portfolio_DesignDigital_Fatec/releases/tag/v2.0" target='_blank'>2ª Entrega</a> | <a href="https://github.com/lucasdwn/Portfolio_DesignDigital_Fatec/releases/tag/VersãoFinal" target='_blank'>3ª Entrega</a> |
