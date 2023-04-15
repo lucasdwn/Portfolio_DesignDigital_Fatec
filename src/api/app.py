@@ -1,27 +1,27 @@
 from flask import app, Flask, render_template
 
-lfportfolio0804 = Flask(__name__)
+app = Flask(__name__)
 
 
-@lfportfolio0804.route('/')
+@app.route('/')
 def inicio():
     tittle= "início"
     return render_template('inicio.html', titulo=tittle)
 
-@lfportfolio0804.route('/Projetos')
+@app.route('/Projetos')
 def Projetos():
     tittle='Projetos'
     return render_template('Projetos.html', titulo=tittle)
 
-@lfportfolio0804.route('/Sobremim')
+@app.route('/Sobremim')
 def Sobremim():
     tittle='Sobre mim'
     return render_template('Sobre mim.html', titulo=tittle)
 
-@lfportfolio0804.route('/Contatos')
+@app.route('/Contatos')
 def Contatos():
     tittle='Contatos'
     return render_template('Contatos.html', titulo=tittle)
 
 if __name__ == '__main__':
-    lfportfolio0804.run('0.0.0.0')
+    app.run('0.0.0.0')
